@@ -1,0 +1,37 @@
+<resources>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="app_name">Sharebuy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Iniciar Sesion</string>
+
+    <!-- Strings relacionados con login -->
+    <string name="prompt_user_id">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesion</string>
+    <string name="action_sign_in_short">Iniciar Sesion</string>
+    <string name="action_register">Registrarse</string>
+    <string name="error_invalid_user_id">Usuario Incorrecto</string>
+    <string name="error_invalid_password">Contraseña demasiado Corta</string>
+    <string name="error_incorrect_password">La Contraseña es Incorrecta</string>
+    <string name="error_field_required">Este Campo es Obligatorio</string>
+    <string name="error_server">Error en el Servidor</string>
+    <string name="error_incorrect_user_id">Usuario no Registrado</string>
+    <string name="error_network">Conexion de red no disponible</string>
+
+
+    <!-- Strings relacionados con Formulario -->
+
+    <string name="lbl_name"> Nombre</string>
+    <string name="lbl_apellido">Apellido</string>
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contraseña">Contraseña</string>
+    <string name="lbl_verificarContraseña">Repetir Contraseña</string>
+    <string name="btn_registrarse">Registrarse </string>
+    <string name="title_activity_principal">ActivityPrincipal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>

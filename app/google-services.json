@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1007188685286",
+    "firebase_url": "https://sharebuy-sergioydani.firebaseio.com",
+    "project_id": "sharebuy-sergioydani",
+    "storage_bucket": "sharebuy-sergioydani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007188685286:android:b4d4df227467270f",
+        "android_client_info": {
+          "package_name": "com.arizmendi43.sfernandez.sharebuyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007188685286-9vle378k4ccmhcrmbrg1s5bq25563p1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYG8X1qJRQJp_VYqx2Zu9EaVRK0FgU31Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
