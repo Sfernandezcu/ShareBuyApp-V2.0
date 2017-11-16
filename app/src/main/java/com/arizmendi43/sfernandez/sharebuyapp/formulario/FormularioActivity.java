@@ -24,7 +24,7 @@ public class FormularioActivity extends AppCompatActivity {
     private Button btn_registro;
 
 
-    //hola que tal
+    //estoy haciendo un commit
 
 
     @Override
