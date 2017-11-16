@@ -23,7 +23,7 @@ public class FormularioActivity extends AppCompatActivity {
     private EditText textVerificarPassword;
     private Button btn_registro;
 
-
+    //HOLA maricon
     //hola marica
 
 
