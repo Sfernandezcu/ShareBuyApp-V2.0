@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\daniel\\.android\\build-cache\\b359eb9dce8229432cc714871be3cbe209264a86\\output\\res\\values\\values.xml",
+                    "file": "/Users/SFernandez/.android/build-cache/fa76d4d8585c29221d6b7fde4327289e6207e1cc/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\.android\\build-cache\\b359eb9dce8229432cc714871be3cbe209264a86\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

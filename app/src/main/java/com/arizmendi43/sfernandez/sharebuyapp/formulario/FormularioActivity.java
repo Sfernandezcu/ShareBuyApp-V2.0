@@ -23,6 +23,10 @@ public class FormularioActivity extends AppCompatActivity {
     private EditText textVerificarPassword;
     private Button btn_registro;
 
+
+    //hola que tal
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/SFernandez/.android/build-cache/b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/SFernandez/.android/build-cache/b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     }
 ]
