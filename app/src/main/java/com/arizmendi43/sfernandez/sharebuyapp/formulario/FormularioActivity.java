@@ -24,7 +24,8 @@ public class FormularioActivity extends AppCompatActivity {
     private Button btn_registro;
 
     //HOLA maricon
-    //hola marica
+    //hola maricasssss
+    // estas chalaoooo
 
 
     @Override
