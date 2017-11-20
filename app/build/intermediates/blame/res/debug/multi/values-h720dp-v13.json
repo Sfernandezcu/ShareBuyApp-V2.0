@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,31 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Users/SFernandez/.android/build-cache/1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

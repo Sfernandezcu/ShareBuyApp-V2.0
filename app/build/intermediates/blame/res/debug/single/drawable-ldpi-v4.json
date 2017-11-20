@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\3fc7359f31a5f82f3135e7888da27c3d4f22b8b0\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     },
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/SFernandez/.android/build-cache/3fc7359f31a5f82f3135e7888da27c3d4f22b8b0/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     }
 ]

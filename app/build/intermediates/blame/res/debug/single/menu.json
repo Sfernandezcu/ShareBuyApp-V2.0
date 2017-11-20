@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
-        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\src\\main\\res\\menu\\activity_principal.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
+        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
     },
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/res/merged/debug/menu/activity_principal.xml",
-        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/src/main/res/menu/activity_principal.xml"
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
+        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
     },
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/build/intermediates/res/merged/debug/menu/activity_principal_drawer.xml",
-        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/app/src/main/res/menu/activity_principal_drawer.xml"
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
+        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\src\\main\\res\\menu\\activity_principal.xml"
     },
     {
-        "merged": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
-        "source": "/Volumes/MACPEN/ShareBuyApp-V2.0/C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
+        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
+    },
+    {
+        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
+        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal.xml"
+    },
+    {
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
+        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\menu\\activity_principal.xml"
     }
 ]
