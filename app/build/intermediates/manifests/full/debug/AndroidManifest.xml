@@ -51,6 +51,7 @@
             android:name="com.arizmendi43.sfernandez.sharebuyapp.principal.ActivityPrincipal"
             android:label="@string/title_activity_principal"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.arizmendi43.sfernandez.sharebuyapp.chat.ChatActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

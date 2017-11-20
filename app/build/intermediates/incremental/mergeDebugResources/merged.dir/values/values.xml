@@ -752,7 +752,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">1007188685286-9vle378k4ccmhcrmbrg1s5bq25563p1a.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com</string>
     <string name="error_field_required">Este Campo es Obligatorio</string>
     <string name="error_incorrect_password">La Contraseña es Incorrecta</string>
     <string name="error_incorrect_user_id">Usuario no Registrado</string>
@@ -760,12 +760,12 @@
     <string name="error_invalid_user_id">Usuario Incorrecto</string>
     <string name="error_network">Conexion de red no disponible</string>
     <string name="error_server">Error en el Servidor</string>
-    <string name="firebase_database_url" translatable="false">https://sharebuy-sergioydani.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">1007188685286</string>
-    <string name="google_api_key" translatable="false">AIzaSyDYG8X1qJRQJp_VYqx2Zu9EaVRK0FgU31Q</string>
-    <string name="google_app_id" translatable="false">1:1007188685286:android:b4d4df227467270f</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYG8X1qJRQJp_VYqx2Zu9EaVRK0FgU31Q</string>
-    <string name="google_storage_bucket" translatable="false">sharebuy-sergioydani.appspot.com</string>
+    <string name="firebase_database_url" translatable="false">https://sharebuy-dys.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1096759186118</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYgKDLYRJfw-R08RQ9f_D5lFQXJ3p4Hfc</string>
+    <string name="google_app_id" translatable="false">1:1096759186118:android:b4d4df227467270f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYgKDLYRJfw-R08RQ9f_D5lFQXJ3p4Hfc</string>
+    <string name="google_storage_bucket" translatable="false">sharebuy-dys.appspot.com</string>
     <string name="lbl_apellido">Apellido</string>
     <string name="lbl_contraseña">Contraseña</string>
     <string name="lbl_name"> Nombre</string>
@@ -778,7 +778,7 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="project_id" translatable="false">sharebuy-sergioydani</string>
+    <string name="project_id" translatable="false">sharebuy-dys</string>
     <string name="prompt_password">Contraseña</string>
     <string name="prompt_user_id">Usuario</string>
     <string name="search_menu_title">Search</string>

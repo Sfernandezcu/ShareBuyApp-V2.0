@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

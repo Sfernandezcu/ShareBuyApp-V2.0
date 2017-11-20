@@ -1,7 +1,7 @@
 [
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -12,20 +12,16 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\3fc7359f31a5f82f3135e7888da27c3d4f22b8b0\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
@@ -40,60 +36,40 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\3fc7359f31a5f82f3135e7888da27c3d4f22b8b0\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555\\output\\res\\color\\design_error.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -104,8 +80,16 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
@@ -116,199 +100,7 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\b5b3d0521f8e81e9fa6c13e9caec8fdcdd4ff555\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\85c96cada182b05080f8f0edddca82fa59ff4181\\output\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\3fc7359f31a5f82f3135e7888da27c3d4f22b8b0\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\8380b8dc7946ca94e5adbaa1bde6ec66eb614635\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\3fc7359f31a5f82f3135e7888da27c3d4f22b8b0\\output\\res\\color\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\SFernandez\\.android\\build-cache\\1a49f73a79a3b3eb875c28b2d327a1b4edbaf7d1\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\Desktop\\AppCompraVenta\\ShareBuyApp V2.0\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Volumes\\MACPEN\\ShareBuyApp-V2.0\\C:\\Users\\daniel\\.android\\build-cache\\5eaae8074b1a1038872c3adb80aa8af1e153d8ca\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     }
 ]
