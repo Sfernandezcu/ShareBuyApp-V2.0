@@ -48,5 +48,13 @@
         android:text="@string/btn_registrarse"
         android:onClick="onClickButton"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click here to login"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:id="@+id/login" />
+
 
 </LinearLayout>

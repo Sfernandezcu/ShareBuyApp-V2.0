@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1096759186118-e63ah1aald407gpkvv2onvsugtcic3l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arizmendi43.sfernandez.sharebuyapp",
+            "certificate_hash": "6e54a1092e5a58f95e7158aa4eac5ad50733fe82"
+          }
+        },
+        {
           "client_id": "1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

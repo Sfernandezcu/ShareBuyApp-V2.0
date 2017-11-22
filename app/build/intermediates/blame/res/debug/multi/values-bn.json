@@ -1,5 +1,1131 @@
 [
     {
+        "outputFile": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 111,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 111,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 105,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 105,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 93,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 93,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 104,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 104,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 128,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 128,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 77,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 77,
+                        "endOffset": 1014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 77,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endColumn": 77,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 86,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 86,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1234,
+                    "endColumn": 109,
+                    "endOffset": 1339
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 109,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1344,
+                    "endColumn": 115,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 115,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endColumn": 106,
+                    "endOffset": 1562
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1410,
+                        "endColumn": 106,
+                        "endOffset": 1512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1567,
+                    "endColumn": 109,
+                    "endOffset": 1672
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1517,
+                        "endColumn": 109,
+                        "endOffset": 1622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1677,
+                    "endColumn": 105,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endColumn": 105,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 112,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 112,
+                        "endOffset": 1841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 127,
+                    "endOffset": 2019
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1846,
+                        "endColumn": 127,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2024,
+                    "endColumn": 104,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 104,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endColumn": 176,
+                    "endOffset": 2301
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 176,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2306,
+                    "endColumn": 131,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 131,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endColumn": 131,
+                    "endOffset": 2565
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 131,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2570,
+                    "endColumn": 95,
+                    "endOffset": 2661
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 95,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2666,
+                    "endColumn": 75,
+                    "endOffset": 2737
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 75,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2742,
+                    "endColumn": 73,
+                    "endOffset": 2811
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 73,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2816,
+                    "endColumn": 61,
+                    "endOffset": 2873
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 61,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2878,
+                    "endColumn": 75,
+                    "endOffset": 2949
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 75,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2954,
+                    "endColumn": 75,
+                    "endOffset": 3025
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 75,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3030,
+                    "endColumn": 98,
+                    "endOffset": 3124
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 98,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3129,
+                    "endColumn": 77,
+                    "endOffset": 3202
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 77,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3207,
+                    "endColumn": 77,
+                    "endOffset": 3280
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 77,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3285,
+                    "endColumn": 96,
+                    "endOffset": 3377
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 96,
+                        "endOffset": 1303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3382,
+                    "endColumn": 113,
+                    "endOffset": 3491
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 113,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3496,
+                    "endColumn": 63,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endColumn": 63,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 67,
+                    "endOffset": 3623
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 67,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3628,
+                    "endColumn": 142,
+                    "endOffset": 3766
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1554,
+                        "endColumn": 142,
+                        "endOffset": 1692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3771,
+                    "endColumn": 110,
+                    "endOffset": 3877
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 110,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3882,
+                    "endColumn": 190,
+                    "endOffset": 4068
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 190,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4073,
+                    "endColumn": 129,
+                    "endOffset": 4198
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 129,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4203,
+                    "endColumn": 112,
+                    "endOffset": 4311
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 112,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4316,
+                    "endColumn": 198,
+                    "endOffset": 4510
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 198,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4515,
+                    "endColumn": 204,
+                    "endOffset": 4715
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 204,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4720,
+                    "endColumn": 123,
+                    "endOffset": 4839
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 123,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4844,
+                    "endColumn": 132,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 132,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 265,
+                    "endOffset": 5238
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\06198c23a60b6120df9d44c60d2d99966b573dc1\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 265,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5243,
+                    "endColumn": 250,
+                    "endOffset": 5489
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 250,
+                        "endOffset": 1792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5494,
+                    "endColumn": 122,
+                    "endOffset": 5612
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 122,
+                        "endOffset": 1915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5617,
+                    "endColumn": 110,
+                    "endOffset": 5723
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1920,
+                        "endColumn": 110,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5728,
+                    "endColumn": 186,
+                    "endOffset": 5910
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2031,
+                        "endColumn": 186,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5915,
+                    "endColumn": 129,
+                    "endOffset": 6040
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2218,
+                        "endColumn": 129,
+                        "endOffset": 2343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6045,
+                    "endColumn": 192,
+                    "endOffset": 6233
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2348,
+                        "endColumn": 192,
+                        "endOffset": 2536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6238,
+                    "endColumn": 132,
+                    "endOffset": 6366
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2541,
+                        "endColumn": 132,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6371,
+                    "endColumn": 178,
+                    "endOffset": 6545
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 178,
+                        "endOffset": 2848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6550,
+                    "endColumn": 89,
+                    "endOffset": 6635
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2853,
+                        "endColumn": 89,
+                        "endOffset": 2938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6640,
+                    "endColumn": 100,
+                    "endOffset": 6736
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2943,
+                        "endColumn": 100,
+                        "endOffset": 3039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6741,
+                    "endColumn": 122,
+                    "endOffset": 6859
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3044,
+                        "endColumn": 122,
+                        "endOffset": 3162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6864,
+                    "endColumn": 66,
+                    "endOffset": 6926
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1697,
+                        "endColumn": 66,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6931,
+                    "endColumn": 89,
+                    "endOffset": 7016
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 89,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7021,
+                    "endColumn": 100,
+                    "endOffset": 7117
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\values-bn\\values-bn.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endColumn": 100,
+                        "endOffset": 2265
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
         "map": [
             {
