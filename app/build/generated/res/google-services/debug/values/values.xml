@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://sharebuy-dys.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">1096759186118</string>
-    <string name="google_api_key" translatable="false">AIzaSyDYgKDLYRJfw-R08RQ9f_D5lFQXJ3p4Hfc</string>
-    <string name="google_app_id" translatable="false">1:1096759186118:android:b4d4df227467270f</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYgKDLYRJfw-R08RQ9f_D5lFQXJ3p4Hfc</string>
-    <string name="google_storage_bucket" translatable="false">sharebuy-dys.appspot.com</string>
-    <string name="project_id" translatable="false">sharebuy-dys</string>
+    <string name="default_web_client_id" translatable="false">77140486460-rvv05s15355icg5v1pgtt820p1tebkp8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sharebuyapp-6833a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">77140486460</string>
+    <string name="google_api_key" translatable="false">AIzaSyBGhJUToNEkCuvlSSOu7ox7sHU2hcymj9I</string>
+    <string name="google_app_id" translatable="false">1:77140486460:android:b4d4df227467270f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGhJUToNEkCuvlSSOu7ox7sHU2hcymj9I</string>
+    <string name="google_storage_bucket" translatable="false">sharebuyapp-6833a.appspot.com</string>
+    <string name="project_id" translatable="false">sharebuyapp-6833a</string>
 </resources>

@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "1096759186118",
-    "firebase_url": "https://sharebuy-dys.firebaseio.com",
-    "project_id": "sharebuy-dys",
-    "storage_bucket": "sharebuy-dys.appspot.com"
+    "project_number": "77140486460",
+    "firebase_url": "https://sharebuyapp-6833a.firebaseio.com",
+    "project_id": "sharebuyapp-6833a",
+    "storage_bucket": "sharebuyapp-6833a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1096759186118:android:b4d4df227467270f",
+        "mobilesdk_app_id": "1:77140486460:android:b4d4df227467270f",
         "android_client_info": {
           "package_name": "com.arizmendi43.sfernandez.sharebuyapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1096759186118-e63ah1aald407gpkvv2onvsugtcic3l3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.arizmendi43.sfernandez.sharebuyapp",
-            "certificate_hash": "6e54a1092e5a58f95e7158aa4eac5ad50733fe82"
-          }
-        },
-        {
-          "client_id": "1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com",
+          "client_id": "77140486460-rvv05s15355icg5v1pgtt820p1tebkp8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDYgKDLYRJfw-R08RQ9f_D5lFQXJ3p4Hfc"
+          "current_key": "AIzaSyBGhJUToNEkCuvlSSOu7ox7sHU2hcymj9I"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1096759186118-jfklp29q0lah0c30ceqtmvd4fdojm1mc.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

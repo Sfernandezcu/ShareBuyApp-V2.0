@@ -1,586 +1,450 @@
 [
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_chat.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\app_bar_activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_playback_control.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\forgot_password_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_white_large.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_register.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_activity_principal.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\app_bar_activity_principal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\7549d321d1ea5ad5d0e3038f13e31665fa5fde6f\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_white_small.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\7549d321d1ea5ad5d0e3038f13e31665fa5fde6f\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_menu.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\welcome_back_idp_prompt_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_google.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\idp_button_google.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_email_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\register_email_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_facebook.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\idp_button_facebook.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auth_method_picker_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\auth_method_picker_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_facebook.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\idp_button_facebook.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_blue_round.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_user_listing.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\item_user_listing.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\com_facebook_activity_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_email_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\register_email_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_blue_large.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\activity_formulario.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_formulario.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_formulario.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_mini_controller.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_white_round.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\com_facebook_activity_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_activity_principal.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\nav_header_activity_principal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_white_large.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\com_facebook_login_fragment.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\save_credentials_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\save_credentials_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\sign_in_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_activity_principal.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\content_activity_principal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\app_bar_activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firebase_login.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\layout\\fragment_firebase_login.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_help_text.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_listing.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_user_listing.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\forgot_password_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_chooser_dialog.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_password_prompt_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\welcome_back_password_prompt_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_all_user_listing.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\item_all_user_listing.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_users.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_users.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_controller_volume_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_google.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\idp_button_google.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\layout\\mr_volume_control.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\signin_no_password_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_action.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\content_activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_action.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\nav_header_activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_principal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_white_round.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\email_hint_container_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\email_hint_container_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\area_mensaje.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\area_mensaje.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_mine.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\item_chat_mine.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sign_in_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\sign_in_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\welcome_back_idp_prompt_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auth_method_picker_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\auth_method_picker_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_credential.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\delete_credential.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_other.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\item_chat_other.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\layout\\cast_expanded_controller_activity.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\save_credentials_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\save_credentials_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_credential.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\delete_credential.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\signin_no_password_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_back_password_prompt_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\welcome_back_password_prompt_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\7549d321d1ea5ad5d0e3038f13e31665fa5fde6f\\output\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\7549d321d1ea5ad5d0e3038f13e31665fa5fde6f\\output\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\com_facebook_login_fragment.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\messenger_button_send_blue_small.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_recovery_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\confirm_recovery_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firebase_login.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\layout\\fragment_firebase_login.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\email_hint_container_layout.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\layout\\email_hint_container_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_recovery_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\layout\\confirm_recovery_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\nav_header_activity_principal.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\content_activity_principal.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\layout\\messenger_button_send_white_small.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_bottom_navigation_item.xml"
     }
 ]

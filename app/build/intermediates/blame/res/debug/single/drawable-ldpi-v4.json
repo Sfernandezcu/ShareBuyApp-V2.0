@@ -1,22 +1,18 @@
 [
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter.png",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable-ldpi-v4\\ic_twitter.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_google.png",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-ldpi-v4\\ic_google.png"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\d2a022881f5380cf5de7652105bd3035585217bd\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook.png",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable-ldpi-v4\\ic_facebook.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter.png",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-ldpi-v4\\ic_twitter.png"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_google.png",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable-ldpi-v4\\ic_google.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook.png",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-ldpi-v4\\ic_facebook.png"
     }
 ]

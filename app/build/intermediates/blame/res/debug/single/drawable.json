@@ -1,514 +1,582 @@
 [
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\d2a022881f5380cf5de7652105bd3035585217bd\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\drawable\\rounded_button.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f0d1f1c97885069d93b697cda06080c79a29df20\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_rounded_rect_bg.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\chat_rounded_rect_bg.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_messaging.png",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\ic_messaging.png"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rect_bg.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\rounded_rect_bg.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\d2a022881f5380cf5de7652105bd3035585217bd\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_share_buy.png",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\drawable\\logo_share_buy.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_share_buy.png",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\logo_share_buy.png"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_button.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable\\facebook_button.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_close_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_close_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_button_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_email.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\drawable\\idp_button_background_email.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_google.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\drawable\\idp_button_background_google.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\d2a022881f5380cf5de7652105bd3035585217bd\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\d2a022881f5380cf5de7652105bd3035585217bd\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\or_line.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable\\or_line.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_google.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\drawable\\idp_button_background_google.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_pause.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_button.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable\\password_button.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_button.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable\\google_button.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\ic_collapse.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_button.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable\\twitter_button.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_forward.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\or_line.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable\\or_line.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_error_24dp.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\ic_error_24dp.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_button.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable\\google_button.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\50f02431fa12c4907dc52de29c05dcb4f7172f1c\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_button.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\27bd5d9e202568b948d62f16496c297456f165a5\\output\\res\\drawable\\twitter_button.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_facebook.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\drawable\\idp_button_background_facebook.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_share_buy.png",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\logo_share_buy.png"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\850080aaadd45ce8ea5ca0b7906777f2744dfd34\\output\\res\\drawable\\rounded_button.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8b05622b5908263d6d94a56e7d38e8b6abf1e9d4\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_email.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\drawable\\idp_button_background_email.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_facebook.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\77e3b9ac4d5a5d316121c2eb9199bf5804107bb0\\output\\res\\drawable\\idp_button_background_facebook.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\8a70eb0cd2b078a73eac259cbed373fcc8d2b366\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\ic_expand.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_button_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\5ecc181a9fa924a4a66ed51e0b2336708b6b1f83\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_button.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable\\password_button.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\a219d499233e947612b6f00647abe34742992bc0\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f01ead96e6d2bd92afd7e6b17945aabc3bf31ba8\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\6060ea448c6ebb57fc1ae8b5eb7c7e99099c5620\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f461a8b51b9a379182323bdc4a16953cb435e63c\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_accent.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\drawable\\circle_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\f43aec1b3a5d9ecdb7e675f4b1c28d2cb10cba80\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_button.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable\\facebook_button.xml"
     }
 ]

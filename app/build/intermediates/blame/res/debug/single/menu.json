@@ -1,18 +1,14 @@
 [
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_listing.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\menu_user_listing.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal_drawer.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal_drawer.xml"
     },
     {
-        "merged": "C:\\Android\\ShareBuyApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp\\app\\src\\main\\res\\menu\\activity_principal.xml"
-    },
-    {
-        "merged": "C:\\Android\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
-        "source": "C:\\Android\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_principal.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\menu\\activity_principal.xml"
     }
 ]
