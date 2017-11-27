@@ -5,9 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-
-    tools:context="com.arizmendi43.sfernandez.sharebuyapp.ui.activities.ChatActivity">
-
+    tools:context="com.arizmendi43.sfernandez.sharebuyapp.ui.activities.LoginActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

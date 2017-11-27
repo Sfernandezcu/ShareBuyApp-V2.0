@@ -14,7 +14,7 @@ ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidMa
 		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:5:4-51:19
+ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:5:5-51:19
 MERGED from [com.android.support:design:25.1.1] C:\Users\makuk\.android\build-cache\bc80caf4f64c933e15b20194505cf440ce310bbe\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\makuk\.android\build-cache\27657b02cf17faa975f1ff029fb0281a63f4818d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\0579c052e5c69912fd0a5e472dead63d4f7258e5\output\AndroidManifest.xml:26:5-20

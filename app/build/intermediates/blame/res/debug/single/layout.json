@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_chat.xml"
     },
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
@@ -34,10 +34,6 @@
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register.xml",
         "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\fragment_register.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_activity_principal.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\app_bar_activity_principal.xml"
     },
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
@@ -180,10 +176,6 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_activity_principal.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\nav_header_activity_principal.xml"
-    },
-    {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -202,10 +194,6 @@
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_activity_principal.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\content_activity_principal.xml"
     },
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_firebase_login.xml",
@@ -332,16 +320,8 @@
         "source": "C:\\Users\\makuk\\.android\\build-cache\\27657b02cf17faa975f1ff029fb0281a63f4818d\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_principal.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\activity_principal.xml"
-    },
-    {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\area_mensaje.xml",
-        "source": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\src\\main\\res\\layout\\area_mensaje.xml"
     },
     {
         "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
