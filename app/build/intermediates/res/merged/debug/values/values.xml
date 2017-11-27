@@ -886,13 +886,13 @@
     <string name="action_settings">Settings</string>
     <string name="action_sign_in">Iniciar Sesion</string>
     <string name="action_sign_in_short">Iniciar Sesion</string>
-    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="adding_user_to_db">Añadiendo usuario a la base de datos....</string>
     <string name="app_name">Sharebuy</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="are_you_sure">Are you sure ?</string>
+    <string name="are_you_sure">Estas seguro?</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="btn_registrarse">Registrarse </string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Cancelar</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
@@ -953,8 +953,8 @@
     <string name="title_activity_login">Iniciar Sesion</string>
     <string name="title_activity_principal">ActivityPrincipal</string>
     <string name="title_activity_splash">SplashActivity</string>
-    <string name="type_a_message">Type a message...</string>
-    <string name="user_successfully_added">User successfully added!</string>
+    <string name="type_a_message">Escribir mensaje...</string>
+    <string name="user_successfully_added">Usuario añadido satisfactoriamente!</string>
     <string name="user_unable_to_add">Unable to add user!</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
