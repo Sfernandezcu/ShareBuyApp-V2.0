@@ -46,7 +46,10 @@
     <string name="action_logout">Logout</string>
     <string name="title_activity_splash">SplashActivity</string>
     <string name="logout">Logout</string>
+    <string name="action_images">Articulos</string>
+    <string name="images">Artículos</string>
     <string name="are_you_sure">Estas seguro?</string>
     <string name="cancel">Cancelar</string>
+    <string name="title_activity_show_images">ShowImagesActivity</string>
 
 </resources>

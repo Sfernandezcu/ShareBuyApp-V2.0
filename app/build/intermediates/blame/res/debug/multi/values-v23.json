@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "outputFile": "C:\\Users\\makuk\\Desktop\\ShareBuyApp-V2.0\\ShareBuyApp-V2.0\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -212,6 +212,27 @@
                         "startOffset": 2533,
                         "endColumn": 112,
                         "endOffset": 2641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2646,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2791
+                },
+                "from": {
+                    "file": "C:\\Users\\makuk\\.android\\build-cache\\fb9f91e930b5c70beb1b655a3166a18113ce0308\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
                     }
                 }
             }

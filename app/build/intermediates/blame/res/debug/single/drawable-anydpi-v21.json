@@ -1,22 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-anydpi-v21\\ic_facebook.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-anydpi-v21\\ic_google.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\1874ee25796b0bb49693d4473f8265a13e2bd842\\output\\res\\drawable-anydpi-v21\\ic_twitter.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
-        "merged": "C:\\Users\\makuk\\StudioProjects\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "merged": "C:\\Users\\makuk\\Desktop\\ShareBuyApp-V2.0\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
         "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\makuk\\Desktop\\ShareBuyApp-V2.0\\ShareBuyApp-V2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\makuk\\.android\\build-cache\\bc80caf4f64c933e15b20194505cf440ce310bbe\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

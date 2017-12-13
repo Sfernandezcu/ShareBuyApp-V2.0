@@ -76,8 +76,17 @@ public class UserListingActivity extends AppCompatActivity implements LogoutCont
             case R.id.action_logout:
                 logout();
                 break;
+            case R.id.action_images:
+                images();
+                break;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    private void images() {
+        Intent intent = new Intent(UserListingActivity.this, UploadActivity.class);
+        startActivity(intent);
+
     }
 
     private void logout() {

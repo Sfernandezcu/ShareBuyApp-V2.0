@@ -1,20 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:2:1-52:12
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:3:5-53
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\makuk\.android\build-cache\0ad97d20b5792b80741b5e278003c537936be539\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\makuk\.android\build-cache\8d7489fcd594ef5eb8205b96e505a3bbd38e00ae\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:6:22-77
 application
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:5:5-51:19
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:8:5-56:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\makuk\.android\build-cache\36d0b03114a65191aa495f204f9f7b02d6bd3254\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.1.1] C:\Users\makuk\.android\build-cache\bc80caf4f64c933e15b20194505cf440ce310bbe\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\makuk\.android\build-cache\27657b02cf17faa975f1ff029fb0281a63f4818d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\0579c052e5c69912fd0a5e472dead63d4f7258e5\output\AndroidManifest.xml:26:5-20
@@ -24,6 +36,7 @@ MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\makuk\.andro
 MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\makuk\.android\build-cache\9dfd77e8de19452337b7aba9151b4aec00d48dc1\output\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\makuk\.android\build-cache\d95c3442310c54691abbb22e4db67498db3709ce\output\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\makuk\.android\build-cache\d2a022881f5380cf5de7652105bd3035585217bd\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\makuk\.android\build-cache\fb9f91e930b5c70beb1b655a3166a18113ce0308\output\AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\makuk\.android\build-cache\1563896f7a56429578c269c0acf4120663f4f75e\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\makuk\.android\build-cache\0ad97d20b5792b80741b5e278003c537936be539\output\AndroidManifest.xml:24:5-28:19
@@ -38,96 +51,104 @@ MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\makuk\.android
 MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\makuk\.android\build-cache\9e318dffc5958e97acb2c55776f58d692bedb581\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.0] C:\Users\makuk\.android\build-cache\bd542776c8acda0eaabd2ac1134e5e97d1d33881\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:14:9-35
 	android:roundIcon
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:13:9-54
 	android:allowBackup
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:10:9-35
 	android:icon
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:11:9-43
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:6:9-78
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:9:9-40
 activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.SplashActivity
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:13:9-22:20
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:16:13-63
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:19:13-63
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:14:13-95
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:17:13-57
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.LoginActivity
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:23:9-26:59
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:26:9-29:59
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:25:13-45
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:28:13-45
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:24:13-94
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:27:13-56
 activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.RegisterActivity
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:27:9-30:59
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:30:9-33:59
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:32:13-45
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:28:13-97
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:31:13-59
 activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.UserListingActivity
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:31:9-35:59
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:34:9-37:59
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:34:13-45
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:36:13-45
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:35:13-56
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:37:13-56
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:33:13-100
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:35:13-62
 activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.ChatActivity
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:36:9-39:59
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:38:9-41:59
 	android:label
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:38:13-45
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:40:13-45
 	android:theme
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:41:13-56
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:37:13-93
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:39:13-55
 service#com.arizmendi43.sfernandez.sharebuyapp.fcm.MyFirebaseMessagingService
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:41:9-45:19
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:43:9-47:19
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:41:18-102
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:43:18-64
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:42:13-44:29
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:44:13-46:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:43:17-78
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:45:17-78
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:43:25-75
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:45:25-75
 service#com.arizmendi43.sfernandez.sharebuyapp.fcm.MyFirebaseInstanceIDService
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:46:9-50:19
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:48:9-52:19
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:46:18-103
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:48:18-65
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:47:13-49:29
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:49:13-51:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:48:17-80
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:50:17-80
 	android:name
-		ADDED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:48:25-77
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:50:25-77
+activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.UploadActivity
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:54:9-66
+	android:name
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:54:19-63
+activity#com.arizmendi43.sfernandez.sharebuyapp.ui.activities.DisplayImagesActivity
+ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:55:9-82
+	android:name
+		ADDED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml:55:19-70
 uses-sdk
-INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\makuk\.android\build-cache\36d0b03114a65191aa495f204f9f7b02d6bd3254\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:25.1.1] C:\Users\makuk\.android\build-cache\bc80caf4f64c933e15b20194505cf440ce310bbe\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\makuk\.android\build-cache\27657b02cf17faa975f1ff029fb0281a63f4818d\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\0579c052e5c69912fd0a5e472dead63d4f7258e5\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\bc53b594dadb69ac486296ca4466fd9ff52251f8\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\makuk\.android\build-cache\a530a1aa849a2feb1a0fc72ef8d145db79c9b1d7\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:transition:25.1.1] C:\Users\makuk\.android\build-cache\c91b5fdd3f96451556b82eab3385465813711940\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database:9.6.1] C:\Users\makuk\.android\build-cache\b8a8bb03d5452f41b7efcb6c0826d3356217d099\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-database-connection:9.6.1] C:\Users\makuk\.android\build-cache\ed4206ed3ee2a9587f18ab34bed6e5ba7de5dc01\output\AndroidManifest.xml:3:5-42
@@ -136,6 +157,10 @@ MERGED from [com.google.firebase:firebase-auth:9.6.1] C:\Users\makuk\.android\bu
 MERGED from [com.google.firebase:firebase-auth-common:9.6.1] C:\Users\makuk\.android\build-cache\d95c3442310c54691abbb22e4db67498db3709ce\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-auth-module:9.6.1] C:\Users\makuk\.android\build-cache\2a6440343f33a6e6cf83fb0655240f9db6fbe484\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\makuk\.android\build-cache\d2a022881f5380cf5de7652105bd3035585217bd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.1] C:\Users\makuk\.android\build-cache\cc02c3d1f4752e8a465d0df6067d3ee290af28d0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.1] C:\Users\makuk\.android\build-cache\2cd45df4a9648176dfca9979a444afa4086ccc80\output\AndroidManifest.xml:3:5-42
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\makuk\.android\build-cache\d8c8a804da25f64db3c975e5e2cb0493c8e2a8a6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\makuk\.android\build-cache\fb9f91e930b5c70beb1b655a3166a18113ce0308\output\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\makuk\.android\build-cache\1563896f7a56429578c269c0acf4120663f4f75e\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\makuk\.android\build-cache\0ad97d20b5792b80741b5e278003c537936be539\output\AndroidManifest.xml:17:5-42
@@ -152,15 +177,17 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\makuk\.android\
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.1.1] C:\Users\makuk\.android\build-cache\bc80caf4f64c933e15b20194505cf440ce310bbe\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makuk\StudioProjects\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\makuk\Desktop\ShareBuyApp-V2.0\ShareBuyApp-V2.0\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\makuk\.android\build-cache\27657b02cf17faa975f1ff029fb0281a63f4818d\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\0579c052e5c69912fd0a5e472dead63d4f7258e5\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\makuk\.android\build-cache\bc53b594dadb69ac486296ca4466fd9ff52251f8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\makuk\.android\build-cache\d8c8a804da25f64db3c975e5e2cb0493c8e2a8a6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\makuk\.android\build-cache\fb9f91e930b5c70beb1b655a3166a18113ce0308\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.0] C:\Users\makuk\.android\build-cache\c525017536cd2e1280167aa8d9f8e12cd8f8f9f4\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\makuk\.android\build-cache\a44df6dcc709b0c176acc57b8dce384575bcb6d8\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\makuk\.android\build-cache\4ed000c0b6cbaa1d6868cfeb09c787c250e0f586\output\AndroidManifest.xml:25:5-27:34
@@ -185,12 +212,6 @@ ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\makuk\.and
 		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\makuk\.android\build-cache\d2a022881f5380cf5de7652105bd3035585217bd\output\AndroidManifest.xml:19:86-145
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\makuk\.android\build-cache\d2a022881f5380cf5de7652105bd3035585217bd\output\AndroidManifest.xml:19:19-85
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\makuk\.android\build-cache\0ad97d20b5792b80741b5e278003c537936be539\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\makuk\.android\build-cache\8d7489fcd594ef5eb8205b96e505a3bbd38e00ae\output\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\makuk\.android\build-cache\2ce0553e91fb34d1b2f7498bcc6b527c19f07f4d\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\makuk\.android\build-cache\0ad97d20b5792b80741b5e278003c537936be539\output\AndroidManifest.xml:21:5-78
