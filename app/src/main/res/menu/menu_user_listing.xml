@@ -11,9 +11,22 @@
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/action_images"
+        android:id="@+id/action_chat"
         android:orderInCategory="200"
+        android:title="@string/action_chat"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_images"
+        android:orderInCategory="300"
         android:title="@string/action_images"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_subirArticulo"
+        android:orderInCategory="400"
+        android:title="@string/action_subirArticulo"
         app:showAsAction="never" />
 
 
